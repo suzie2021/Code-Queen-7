@@ -1,6 +1,7 @@
 .content{
     background-image: url(background.png);
     max-width:143%;
+    backface-visibility:20%;
     background-repeat: no-repeat;
 }
 #head{
