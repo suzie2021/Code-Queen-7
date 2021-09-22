@@ -1,15 +1,16 @@
 .content{
     background-image: url(background.png);
     max-width:143%;
-    backface-visibility:20%;
+    backface-visibility:30%;
     background-repeat: no-repeat;
 }
 #head{
     text-decoration-style: wavy;
     color: red;
-    font-size: 30px;
+    font-size: 50px;
     font-display: wavy;
     font-family: Georgia;
+    font-style: italic;
     
    
 
