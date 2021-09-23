@@ -4,6 +4,11 @@
     backface-visibility:30%;
     background-repeat: no-repeat;
 }
+.image{
+    width: 120px;
+    cursor:pointer;
+    background-color: rgb(0,0,0,0.8);
+}
 #head{
     text-decoration-style: wavy;
     color: red;
